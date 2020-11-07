@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://scenes/Player.cs" type="Script" id=1]
+
+[sub_resource type="CapsuleShape2D" id=1]
+
+[node name="Player" type="Area2D"]
+visible = false
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_group_": true
+}
+Speed = 400
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+visible = false
+shape = SubResource( 1 )
+
+[connection signal="body_entered" from="." to="." method="_on_Player_body_entered"]

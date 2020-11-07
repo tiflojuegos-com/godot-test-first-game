@@ -1,0 +1,1316 @@
+2020-11-06 14:49:02.7137 INFO logSystem started at 06/11/2020 14:49:02
+2020-11-06 14:49:02.7366 INFO starting exploud engine
+2020-11-06 14:49:03.1718 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 14:49:03.3314 DEBUG plugins loaded
+2020-11-06 14:49:03.3391 INFO loading sounds.move.mp3 sound
+2020-11-06 14:49:03.4033 INFO sounds.move.mp3 sound loaded
+2020-11-06 14:49:44.6655 INFO logSystem started at 06/11/2020 14:49:44
+2020-11-06 14:49:44.6845 INFO starting exploud engine
+2020-11-06 14:49:44.7075 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 14:49:44.7275 DEBUG plugins loaded
+2020-11-06 14:49:44.7275 INFO loading sounds.move.mp3 sound
+2020-11-06 14:49:45.6231 INFO sounds.move.mp3 sound loaded
+2020-11-06 14:50:13.4624 INFO logSystem started at 06/11/2020 14:50:13
+2020-11-06 14:50:13.4825 INFO starting exploud engine
+2020-11-06 14:50:13.5084 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 14:50:13.5304 DEBUG plugins loaded
+2020-11-06 14:50:13.5304 INFO loading sounds.move.mp3 sound
+2020-11-06 14:50:13.5434 INFO sounds.move.mp3 sound loaded
+2020-11-06 14:54:01.9464 INFO logSystem started at 06/11/2020 14:54:01
+2020-11-06 14:54:01.9674 INFO starting exploud engine
+2020-11-06 14:54:01.9894 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 14:54:02.0104 DEBUG plugins loaded
+2020-11-06 14:54:02.0104 INFO loading sounds.move.ogg sound
+2020-11-06 14:54:02.5770 INFO sounds.move.ogg sound loaded
+2020-11-06 14:54:25.2018 INFO logSystem started at 06/11/2020 14:54:25
+2020-11-06 14:54:25.2218 INFO starting exploud engine
+2020-11-06 14:54:25.2448 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 14:54:25.2638 DEBUG plugins loaded
+2020-11-06 14:54:25.2638 INFO loading sounds.move.ogg sound
+2020-11-06 14:54:25.2758 INFO sounds.move.ogg sound loaded
+2020-11-06 14:54:37.6224 INFO logSystem started at 06/11/2020 14:54:37
+2020-11-06 14:54:37.6423 INFO starting exploud engine
+2020-11-06 14:54:37.6663 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 14:54:37.7063 DEBUG plugins loaded
+2020-11-06 14:54:37.7124 INFO loading sounds.move.ogg sound
+2020-11-06 14:54:37.7124 INFO sounds.move.ogg sound loaded
+2020-11-06 14:55:35.9788 INFO logSystem started at 06/11/2020 14:55:35
+2020-11-06 14:55:36.0009 INFO starting exploud engine
+2020-11-06 14:55:36.0238 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 14:55:36.0419 DEBUG plugins loaded
+2020-11-06 14:55:36.0419 INFO loading sounds.move.ogg sound
+2020-11-06 14:55:36.0419 INFO sounds.move.ogg sound loaded
+2020-11-06 14:56:42.2823 INFO logSystem started at 06/11/2020 14:56:42
+2020-11-06 14:56:42.3093 INFO starting exploud engine
+2020-11-06 14:56:42.3343 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 14:56:42.3533 DEBUG plugins loaded
+2020-11-06 14:56:42.3533 INFO loading sounds.move.ogg sound
+2020-11-06 14:56:42.3533 INFO sounds.move.ogg sound loaded
+2020-11-06 14:59:56.2213 INFO logSystem started at 06/11/2020 14:59:56
+2020-11-06 14:59:56.2433 INFO starting exploud engine
+2020-11-06 14:59:56.2723 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 14:59:56.2933 DEBUG plugins loaded
+2020-11-06 14:59:56.2933 INFO loading sounds.move.ogg sound
+2020-11-06 14:59:56.3083 INFO sounds.move.ogg sound loaded
+2020-11-06 15:00:18.0600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0600 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0600 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0600 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0720 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.0870 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1030 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1180 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1180 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1180 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1180 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1180 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1180 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1180 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1180 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 15:00:18.1180 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:41:38.8532 INFO logSystem started at 06/11/2020 17:41:38
+2020-11-06 17:41:38.9022 INFO starting exploud engine
+2020-11-06 17:41:38.9958 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 17:41:39.0118 DEBUG plugins loaded
+2020-11-06 17:41:39.0118 INFO loading sounds.move.ogg sound
+2020-11-06 17:41:39.0358 INFO sounds.move.ogg sound loaded
+2020-11-06 17:49:18.2862 INFO logSystem started at 06/11/2020 17:49:18
+2020-11-06 17:49:18.3052 INFO starting exploud engine
+2020-11-06 17:49:18.3272 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 17:49:18.3432 DEBUG plugins loaded
+2020-11-06 17:49:18.3492 INFO loading sounds.move.ogg sound
+2020-11-06 17:49:18.3492 INFO sounds.move.ogg sound loaded
+2020-11-06 17:49:24.0706 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:49:24.2085 INFO sounds.walk.mp3 sound loaded
+2020-11-06 17:49:24.5857 INFO loading sounds.fly.mp3 sound
+2020-11-06 17:49:24.6117 INFO sounds.fly.mp3 sound loaded
+2020-11-06 17:49:25.0847 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:49:25.0847 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:49:25.7340 INFO loading sounds.fly.mp3 sound
+2020-11-06 17:49:25.7340 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:49:26.2347 INFO loading sounds.fly.mp3 sound
+2020-11-06 17:49:26.2347 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:49:26.7344 INFO loading sounds.fly.mp3 sound
+2020-11-06 17:49:26.7344 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:49:27.2343 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:49:27.2583 INFO sounds.swim.mp3 sound loaded
+2020-11-06 17:49:27.7343 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:49:27.7343 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:50:27.6940 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:50:27.6940 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:50:28.1928 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:50:28.1928 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:50:28.6935 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:50:28.6935 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:50:29.1931 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:50:29.1931 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:50:29.3830 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_CHANNEL_STOLEN
+2020-11-06 17:50:29.3830 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:50:29.3830 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_CHANNEL_STOLEN
+2020-11-06 17:50:29.3830 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:50:29.3830 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_CHANNEL_STOLEN
+2020-11-06 17:50:29.3830 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:50:29.3830 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_CHANNEL_STOLEN
+2020-11-06 17:50:29.3830 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:50:29.3830 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:50:29.3830 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3830 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_CHANNEL_STOLEN
+2020-11-06 17:50:29.3830 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.3940 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4091 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4250 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4410 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4410 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4410 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:50:29.4410 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:20.8995 INFO logSystem started at 06/11/2020 17:51:20
+2020-11-06 17:51:20.9185 INFO starting exploud engine
+2020-11-06 17:51:20.9406 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 17:51:20.9575 DEBUG plugins loaded
+2020-11-06 17:51:20.9575 INFO loading sounds.move.ogg sound
+2020-11-06 17:51:20.9575 INFO sounds.move.ogg sound loaded
+2020-11-06 17:51:26.4898 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:51:26.5128 INFO sounds.walk.mp3 sound loaded
+2020-11-06 17:51:26.9853 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:51:26.9972 INFO sounds.swim.mp3 sound loaded
+2020-11-06 17:51:27.5019 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:51:27.5028 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:51:28.0023 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:51:28.0033 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:51:28.5015 INFO loading sounds.fly.mp3 sound
+2020-11-06 17:51:28.5185 INFO sounds.fly.mp3 sound loaded
+2020-11-06 17:51:30.8212 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:51:30.8212 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:32.0852 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:51:32.0852 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:33.0672 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:51:33.0672 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:37.2514 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:51:37.2514 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:51:37.7678 INFO loading sounds.fly.mp3 sound
+2020-11-06 17:51:37.7688 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:51:38.2676 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:51:38.2686 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:51:38.7678 INFO loading sounds.fly.mp3 sound
+2020-11-06 17:51:38.7688 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:51:39.2668 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:51:39.2668 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:51:39.7678 INFO loading sounds.fly.mp3 sound
+2020-11-06 17:51:39.7688 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:51:40.2674 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:51:40.2684 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:51:40.5514 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:51:40.5514 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:40.6174 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:51:40.6174 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:43.8668 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:51:43.8668 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:45.8674 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:51:45.8674 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:46.4163 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:51:46.4163 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:46.5332 ERROR problems excecuting a fmod function at non detailed. step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:46.5342 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:47.1329 ERROR problems excecuting a fmod function at non detailed. step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:47.1329 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:48.1331 ERROR problems excecuting a fmod function at non detailed. step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:48.1331 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:49.0328 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:51:49.0328 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4341 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4341 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4341 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4341 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4341 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4341 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4341 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4410 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4560 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4721 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4881 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4881 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4881 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4881 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4881 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4881 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4881 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4881 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4881 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.4881 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.4881 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5031 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5190 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:51:50.5340 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5501 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5501 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5501 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5501 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5501 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5501 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5501 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5501 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5501 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5501 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5501 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.5501 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:50.5501 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.7327 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:50.9323 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:51.1321 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:51.3330 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:51.5327 ERROR problems excecuting a fmod function at non detailed. step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:51.5327 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:51:51.5347 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:51:51.7319 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:11.5631 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:52:11.5631 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:12.5627 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:52:12.5627 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:30.3607 INFO loading sounds.fly.mp3 sound
+2020-11-06 17:52:30.3627 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:52:30.8606 INFO loading sounds.fly.mp3 sound
+2020-11-06 17:52:30.8606 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:52:31.3608 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:52:31.3608 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:52:31.8601 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:52:31.8601 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:52:32.3605 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:52:32.3605 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:52:32.6277 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:52:32.6287 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:32.8601 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:52:32.8601 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:52:33.1101 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1101 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1101 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1280 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1450 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1610 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.1910 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2060 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2220 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2380 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2530 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2690 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.2850 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.3000 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.3000 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.3000 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.3000 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.3000 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.3000 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.3000 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.3000 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:33.3000 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:33.3000 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 17:52:33.3600 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:52:33.3600 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:52:33.8603 INFO loading sounds.fly.mp3 sound
+2020-11-06 17:52:33.8603 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:52:34.3604 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:52:34.3604 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:52:34.5936 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:52:34.5936 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:34.8606 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:52:34.8606 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:52:35.3601 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:52:35.3601 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:52:35.4781 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:52:35.4781 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:35.8604 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:52:35.8604 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:52:35.9264 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:52:35.9264 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.4956 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:36.4956 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.4956 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.4956 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.4956 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.4956 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.4956 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:36.4956 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.4956 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5036 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5186 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5346 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5497 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5497 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5497 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5497 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 17:52:36.5497 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:56:53.4525 INFO logSystem started at 06/11/2020 17:56:53
+2020-11-06 17:56:53.4725 INFO starting exploud engine
+2020-11-06 17:56:53.5005 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 17:56:53.5225 DEBUG plugins loaded
+2020-11-06 17:56:53.5225 INFO loading sounds.move.ogg sound
+2020-11-06 17:56:53.5375 INFO sounds.move.ogg sound loaded
+2020-11-06 17:57:19.3265 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:57:19.3445 INFO sounds.swim.mp3 sound loaded
+2020-11-06 17:57:22.1765 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 17:57:22.1765 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7775 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7775 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7775 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7775 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7775 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.7775 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7775 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.7845 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8005 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:57:25.8155 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:58:39.5126 INFO logSystem started at 06/11/2020 17:58:39
+2020-11-06 17:58:39.5326 INFO starting exploud engine
+2020-11-06 17:58:39.5557 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 17:58:39.5737 DEBUG plugins loaded
+2020-11-06 17:58:39.5737 INFO loading sounds.move.ogg sound
+2020-11-06 17:58:39.5857 INFO sounds.move.ogg sound loaded
+2020-11-06 17:58:44.2355 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:58:44.2555 INFO sounds.swim.mp3 sound loaded
+2020-11-06 17:58:44.7465 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:58:44.7465 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:58:45.2465 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:58:45.2465 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:58:45.7465 INFO loading sounds.fly.mp3 sound
+2020-11-06 17:58:45.7635 INFO sounds.fly.mp3 sound loaded
+2020-11-06 17:58:46.2465 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:58:46.2634 INFO sounds.walk.mp3 sound loaded
+2020-11-06 17:58:46.7465 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:58:46.7465 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:58:47.2465 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:58:47.2465 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:58:47.7465 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:58:47.7465 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:58:48.2465 INFO loading sounds.swim.mp3 sound
+2020-11-06 17:58:48.2465 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:58:48.7455 INFO loading sounds.walk.mp3 sound
+2020-11-06 17:58:48.7455 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 17:59:54.2123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:59:54.2123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 17:59:54.2123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2223 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2378 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2528 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2698 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2848 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2848 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2848 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2848 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2848 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2848 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2848 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2848 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2848 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2848 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2848 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 17:59:54.2848 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:01:44.1891 INFO logSystem started at 06/11/2020 23:01:44
+2020-11-06 23:01:44.2091 INFO starting exploud engine
+2020-11-06 23:01:44.2471 DEBUG loading oculus spatializer with 1024 buffer lenght, and 4 num of samples 
+2020-11-06 23:01:44.2652 DEBUG plugins loaded
+2020-11-06 23:01:44.2711 INFO loading sounds.move.ogg sound
+2020-11-06 23:01:44.2711 INFO sounds.move.ogg sound loaded
+2020-11-06 23:01:54.9165 INFO loading sounds.fly.mp3 sound
+2020-11-06 23:01:54.9365 INFO sounds.fly.mp3 sound loaded
+2020-11-06 23:01:55.4125 INFO loading sounds.walk.mp3 sound
+2020-11-06 23:01:55.4295 INFO sounds.walk.mp3 sound loaded
+2020-11-06 23:01:55.9298 INFO loading sounds.swim.mp3 sound
+2020-11-06 23:01:55.9418 INFO sounds.swim.mp3 sound loaded
+2020-11-06 23:01:56.4293 INFO loading sounds.fly.mp3 sound
+2020-11-06 23:01:56.4293 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:01:56.9290 INFO loading sounds.walk.mp3 sound
+2020-11-06 23:01:57.1749 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:01:57.5294 INFO loading sounds.swim.mp3 sound
+2020-11-06 23:01:57.5294 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:01:58.0302 INFO loading sounds.swim.mp3 sound
+2020-11-06 23:01:58.0302 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:01:58.5291 INFO loading sounds.fly.mp3 sound
+2020-11-06 23:01:58.5291 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:01:59.0297 INFO loading sounds.walk.mp3 sound
+2020-11-06 23:01:59.0297 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:01:59.5293 INFO loading sounds.fly.mp3 sound
+2020-11-06 23:01:59.5293 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:00.0290 INFO loading sounds.swim.mp3 sound
+2020-11-06 23:02:00.0290 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:00.0651 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:00.0661 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:00.0661 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:00.0661 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:00.5294 INFO loading sounds.swim.mp3 sound
+2020-11-06 23:02:00.6378 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:01.0298 INFO loading sounds.walk.mp3 sound
+2020-11-06 23:02:01.0298 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:01.5291 INFO loading sounds.walk.mp3 sound
+2020-11-06 23:02:01.5291 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:02.0291 INFO loading sounds.swim.mp3 sound
+2020-11-06 23:02:02.0291 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:02.1951 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:02.1951 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:02.5292 INFO loading sounds.swim.mp3 sound
+2020-11-06 23:02:02.5292 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:02.9627 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:02.9627 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:03.0297 INFO loading sounds.swim.mp3 sound
+2020-11-06 23:02:03.0297 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:03.4462 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:03.4462 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:03.5292 INFO loading sounds.fly.mp3 sound
+2020-11-06 23:02:03.5292 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:04.0287 INFO loading sounds.fly.mp3 sound
+2020-11-06 23:02:04.0287 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:04.5293 INFO loading sounds.swim.mp3 sound
+2020-11-06 23:02:04.5293 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:05.0298 INFO loading sounds.fly.mp3 sound
+2020-11-06 23:02:05.0298 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:05.2789 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:05.2789 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:05.5288 INFO loading sounds.walk.mp3 sound
+2020-11-06 23:02:05.5288 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:05.8307 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:05.8317 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8137 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8137 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 23:02:06.8157 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8318 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:06.8467 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:06.9457 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:07.1459 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:07.1459 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:07.1610 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:07.3449 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:07.3449 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:07.3609 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:08.1950 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:08.1950 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:08.1950 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:08.2280 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:08.2280 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:08.6458 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:08.6458 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:08.7119 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:09.0289 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:09.0289 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:09.3109 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:09.5109 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:09.5109 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:09.9447 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:09.9447 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:10.5287 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:10.5287 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:10.9944 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:10.9944 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:12.9948 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:12.9948 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:13.3441 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:13.3441 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:13.9614 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:13.9614 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:18.0599 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:18.0599 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6090 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6090 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6090 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6130 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6290 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6440 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6600 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6750 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6910 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6910 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6910 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:33.6910 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:33.6910 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:38.1264 INFO loading sounds.fly.mp3 sound
+2020-11-06 23:02:38.1264 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:38.6238 INFO loading sounds.fly.mp3 sound
+2020-11-06 23:02:38.6238 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:39.1237 INFO loading sounds.walk.mp3 sound
+2020-11-06 23:02:39.1237 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:39.6242 INFO loading sounds.walk.mp3 sound
+2020-11-06 23:02:39.6242 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:40.1556 INFO loading sounds.fly.mp3 sound
+2020-11-06 23:02:40.1596 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:40.4732 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:40.4732 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:40.6402 INFO loading sounds.walk.mp3 sound
+2020-11-06 23:02:40.6402 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:41.1547 INFO loading sounds.fly.mp3 sound
+2020-11-06 23:02:41.1817 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:41.6233 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:41.6233 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:41.6402 INFO loading sounds.swim.mp3 sound
+2020-11-06 23:02:41.6402 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:42.1396 INFO loading sounds.swim.mp3 sound
+2020-11-06 23:02:42.1396 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:42.6405 INFO loading sounds.walk.mp3 sound
+2020-11-06 23:02:42.6405 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:43.1409 INFO loading sounds.fly.mp3 sound
+2020-11-06 23:02:43.1409 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:43.6239 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:43.6239 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:43.6399 INFO loading sounds.walk.mp3 sound
+2020-11-06 23:02:43.6399 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:44.1403 INFO loading sounds.walk.mp3 sound
+2020-11-06 23:02:44.1403 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:44.3398 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:44.3398 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:44.6401 INFO loading sounds.fly.mp3 sound
+2020-11-06 23:02:44.6401 INFO sounds.fly.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:45.1399 INFO loading sounds.walk.mp3 sound
+2020-11-06 23:02:45.1399 INFO sounds.walk.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:45.6397 INFO loading sounds.swim.mp3 sound
+2020-11-06 23:02:45.6397 INFO sounds.swim.mp3 sound was loaded previously. returning kached data
+2020-11-06 23:02:46.9899 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:46.9899 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:48.4394 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:48.4403 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:48.6397 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:48.6527 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:48.8227 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:48.8227 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3405 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:49.3405 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3405 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:49.3405 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3405 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:49.3405 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3405 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:49.3475 ERROR problems excecuting a fmod function at releasing source dsp step ERR_DSP_INUSE
+2020-11-06 23:02:50.0390 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:51.0396 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:51.0396 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:51.1066 ERROR problems excecuting a fmod function at non detailed. step ERR_INVALID_HANDLE
+2020-11-06 23:02:51.1066 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5753 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5753 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5753 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5753 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5753 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5753 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5813 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.5973 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_CHANNEL_STOLEN
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6123 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at manual stop of a channel  step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6283 ERROR problems excecuting a fmod function at disconnecting source DSP step ERR_INVALID_HANDLE
+2020-11-06 23:02:52.6443 ERROR problems excecuting a fmod function at releasing source dsp step ERR_INVALID_HANDLE

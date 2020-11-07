@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UvdI6h/eFA/1s9lIS1Z8GeYslkLt0l11SlTXt/JcZJZoU7T1R8KYpwJ/UHNeEO4kftRBMgMvZu8os+orZBbTXw==",
+  "success": true,
+  "projectFilePath": "D:\\games etc\\vs\\my first game godot\\UnnamedProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ali-b\\.nuget\\packages\\godottools.idemessaging\\1.1.1\\godottools.idemessaging.1.1.1.nupkg.sha512",
+    "C:\\Users\\ali-b\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
