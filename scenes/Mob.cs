@@ -31,6 +31,12 @@ public class Mob : RigidBody2D
         voiceinstance.z = Position.y;
   }
 
+    public void _on_players_hit()
+    {
+        QueueFree();
+        voiceinstance.stop();
+    }
+
     public void _on_Visibility_screen_exited()
     {
         QueueFree();

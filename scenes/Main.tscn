@@ -16,6 +16,7 @@ script = ExtResource( 4 )
 Mob = ExtResource( 3 )
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
+visible = true
 
 [node name="MobTimer" type="Timer" parent="."]
 wait_time = 0.5
@@ -35,11 +36,17 @@ curve = SubResource( 1 )
 script = ExtResource( 2 )
 
 [node name="MobSpawnLocation" type="PathFollow2D" parent="MobPath"]
+position = Vector2( 0, -4 )
 
 [node name="Hud" parent="." instance=ExtResource( 5 )]
+
+[node name="StartButton" parent="Hud" index="2"]
+visible = false
 
 [connection signal="Hit" from="Player" to="." method="game_over"]
 [connection signal="timeout" from="MobTimer" to="." method="_on_MobTimer_timeout"]
 [connection signal="timeout" from="ScoreTimer" to="." method="_on_ScoreTimer_timeout"]
 [connection signal="timeout" from="StartTimer" to="." method="_on_StartTimer_timeout"]
 [connection signal="StartGame" from="Hud" to="." method="new_game"]
+
+[editable path="Hud"]

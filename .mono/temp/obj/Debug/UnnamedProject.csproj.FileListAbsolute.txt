@@ -16,3 +16,21 @@ D:\games etc\vs\my first game godot\.mono\temp\obj\Debug\UnnamedProject.csproj.C
 D:\games etc\vs\my first game godot\.mono\temp\bin\Debug\UnnamedProject.pdb
 D:\games etc\vs\my first game godot\.mono\temp\obj\Debug\UnnamedProject.dll
 D:\games etc\vs\my first game godot\.mono\temp\obj\Debug\UnnamedProject.pdb
+D:\Programacion\godot\godot-test-first-game\.mono\temp\obj\Debug\UnnamedProject.csprojAssemblyReference.cache
+D:\Programacion\godot\godot-test-first-game\.mono\temp\obj\Debug\UnnamedProject.AssemblyInfoInputs.cache
+D:\Programacion\godot\godot-test-first-game\.mono\temp\obj\Debug\UnnamedProject.AssemblyInfo.cs
+D:\Programacion\godot\godot-test-first-game\.mono\temp\obj\Debug\UnnamedProject.csproj.CoreCompileInputs.cache
+D:\Programacion\godot\godot-test-first-game\.mono\temp\obj\Debug\UnnamedProject.dll
+D:\Programacion\godot\godot-test-first-game\.mono\temp\obj\Debug\UnnamedProject.pdb
+D:\Programacion\godot\godot-test-first-game\.mono\temp\bin\Debug\UnnamedProject.dll
+D:\Programacion\godot\godot-test-first-game\.mono\temp\bin\Debug\UnnamedProject.pdb
+D:\Programacion\godot\godot-test-first-game\.mono\temp\bin\Debug\GodotTools.IdeMessaging.dll
+D:\Programacion\godot\godot-test-first-game\.mono\temp\bin\Debug\Newtonsoft.Json.dll
+D:\Programacion\godot\godot-test-first-game\.mono\temp\bin\Debug\tfj_exploud_engine.dll
+D:\Programacion\godot\godot-test-first-game\.mono\temp\bin\Debug\fmod_wrapper_standard.dll
+D:\Programacion\godot\godot-test-first-game\.mono\temp\bin\Debug\logSystem.dll
+D:\Programacion\godot\godot-test-first-game\.mono\temp\bin\Debug\NLog.dll
+D:\Programacion\godot\godot-test-first-game\.mono\temp\bin\Debug\tfj_exploud_engine.pdb
+D:\Programacion\godot\godot-test-first-game\.mono\temp\bin\Debug\fmod_wrapper_standard.pdb
+D:\Programacion\godot\godot-test-first-game\.mono\temp\bin\Debug\logSystem.pdb
+D:\Programacion\godot\godot-test-first-game\.mono\temp\obj\Debug\UnnamedProject.csproj.CopyComplete

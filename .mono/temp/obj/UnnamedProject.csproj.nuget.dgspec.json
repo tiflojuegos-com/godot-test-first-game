@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\games etc\\vs\\my first game godot\\UnnamedProject.csproj": {}
+    "D:\\Programacion\\godot\\godot-test-first-game\\UnnamedProject.csproj": {}
   },
   "projects": {
-    "D:\\games etc\\vs\\my first game godot\\UnnamedProject.csproj": {
+    "D:\\Programacion\\godot\\godot-test-first-game\\UnnamedProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\games etc\\vs\\my first game godot\\UnnamedProject.csproj",
+        "projectUniqueName": "D:\\Programacion\\godot\\godot-test-first-game\\UnnamedProject.csproj",
         "projectName": "UnnamedProject",
-        "projectPath": "D:\\games etc\\vs\\my first game godot\\UnnamedProject.csproj",
-        "packagesPath": "C:\\Users\\ali-b\\.nuget\\packages\\",
-        "outputPath": "D:\\games etc\\vs\\my first game godot\\.mono\\temp\\obj\\",
+        "projectPath": "D:\\Programacion\\godot\\godot-test-first-game\\UnnamedProject.csproj",
+        "packagesPath": "S:\\.nuget",
+        "outputPath": "D:\\Programacion\\godot\\godot-test-first-game\\.mono\\temp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ali-b\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sanslash332\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net472"
@@ -51,7 +47,7 @@
               "version": "[12.0.3, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

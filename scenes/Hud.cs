@@ -12,7 +12,7 @@ public class Hud : CanvasLayer
     // Called when the node enters the scene tree for the first time.
     public override void _Ready()
     {
-        
+        GetNode<Button>("StartButton").Show();
     }
 
     public void ShowMessage(string text)
@@ -53,8 +53,15 @@ public class Hud : CanvasLayer
     }
 
 //  // Called every frame. 'delta' is the elapsed time since the previous frame.
-//  public override void _Process(float delta)
-//  {
-//      
-//  }
+    public override void _Process(float delta)
+        {
+        
+        Button startButton = GetNode<Button>("StartButton");
+        
+        if (Input.IsActionPressed("ui_accept") && startButton.Visible)
+        {
+            
+            startButton.EmitSignal("pressed");
+        }
+        }
 }
