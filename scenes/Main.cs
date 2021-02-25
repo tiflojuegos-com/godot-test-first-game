@@ -48,6 +48,7 @@ public class Main : Node
 		var startPosition = GetNode<Position2D>("StartPosition");
 		player.Start(startPosition.Position);
 		gamemusic.play();
+		globals.engine.defaultMusicGroup.volume = 0.2f;
 	}
 
 	public void _on_StartTimer_timeout()    

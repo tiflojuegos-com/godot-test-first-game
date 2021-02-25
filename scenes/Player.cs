@@ -22,47 +22,55 @@ private eSound movesound;
     {
         _screenSize = GetViewport().GetSize();
         movesound = globals.engine.loadSound("sounds/move.ogg");
+        GetNode<CollisionShape2D>("CollisionShape2D").Disabled = true;
         Hide();
     }
 
 //  // Called every frame. 'delta' is the elapsed time since the previous frame.
   public override void _Process(float delta)
   {
-        var velocity = new Vector2();
-        if(Input.IsActionPressed("ui_right"))
+        if (GetNode<CollisionShape2D>("CollisionShape2D").Disabled == true)
         {
-            velocity.x += 1;
+            return;
         }
+        else
+        {
+            var velocity = new Vector2();
+            if (Input.IsActionPressed("ui_right"))
+            {
+                velocity.x += 1;
+            }
 
-        if(Input.IsActionPressed("ui_left"))
-        {
-            velocity.x -= 1;
-        }
+            if (Input.IsActionPressed("ui_left"))
+            {
+                velocity.x -= 1;
+            }
 
-        if(Input.IsActionPressed("ui_down"))
-        {
-            velocity.y += 1;
-        }
+            if (Input.IsActionPressed("ui_down"))
+            {
+                velocity.y += 1;
+            }
 
-        if(Input.IsActionPressed("ui_up"))
-        {
-            velocity.y -= 1;
-        }
+            if (Input.IsActionPressed("ui_up"))
+            {
+                velocity.y -= 1;
+            }
 
-        if(velocity.Length()>0)
-        {
-            velocity = velocity.Normalized() * Speed;
+            if (velocity.Length() > 0)
+            {
+                velocity = velocity.Normalized() * Speed;
+            }
+            Position += velocity * delta;
+            distance += velocity.Length();
+            if (distance >= 4500)
+            {
+                moveinstance = movesound.play(0, loopMode.noLoop);
+                distance = 0;
+            }
+            Position = new Vector2(x: Mathf.Clamp(Position.x, 0, _screenSize.x), y: Mathf.Clamp(Position.y, 0, _screenSize.y));
+            globals.engine.listener.x = Position.x;
+            globals.engine.listener.z = Position.y;
         }
-        Position += velocity * delta;
-        distance += velocity.Length();
-        if(distance>=4500)
-        {
-            moveinstance = movesound.play(0, loopMode.noLoop);
-            distance = 0;
-        }
-        Position = new Vector2(x: Mathf.Clamp(Position.x, 0, _screenSize.x), y: Mathf.Clamp(Position.y, 0, _screenSize.y));
-        globals.engine.listener.x = Position.x;
-        globals.engine.listener.z = Position.y;
   }
 
 public void _on_Player_body_entered(PhysicsBody2D body)

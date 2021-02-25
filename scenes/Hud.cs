@@ -8,7 +8,6 @@ public class Hud : CanvasLayer
     // private string b = "text";
     [Signal]
     public delegate void StartGame();
-
     // Called when the node enters the scene tree for the first time.
     public override void _Ready()
     {
@@ -20,14 +19,14 @@ public class Hud : CanvasLayer
         var messageLabel = GetNode<Label>("MessageLabel");
         messageLabel.Text = text;
         messageLabel.Show();
-
+        var tts = (Godot.Object)GetNode("/root/TTS");
+        tts.Call("speak", messageLabel.Text);
         GetNode<Timer>("MessageTimer").Start();
     }
 
     async public void ShowGameOver()
     {
         ShowMessage("fin de juego! cache te puso los dedos en los ojos... ");
-
         var messageTimer = GetNode<Timer>("MessageTimer");
         await ToSignal(messageTimer, "timeout");
         var messageLabel = GetNode<Label>("MessageLabel");
@@ -55,7 +54,6 @@ public class Hud : CanvasLayer
 //  // Called every frame. 'delta' is the elapsed time since the previous frame.
     public override void _Process(float delta)
         {
-        
         Button startButton = GetNode<Button>("StartButton");
         
         if (Input.IsActionPressed("ui_accept") && startButton.Visible)
